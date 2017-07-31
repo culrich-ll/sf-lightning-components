@@ -1,0 +1,13 @@
+{
+  "name": "Lightning components library",
+  "version": "1.0.0",
+  "description": "Lightning components library",
+  "main": "index.js",
+  "author": "logicline",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jsforce-deploy": "^1.1.2",
+    "gulp-zip": "^4.0.0"
+  }
+}
